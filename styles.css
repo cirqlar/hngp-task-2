@@ -97,3 +97,17 @@ body {
 	color: rgb(102, 102, 102);
 	margin: .5em 0;
 }
+
+#skills--text {
+	font-size: 0.8em;
+	color: rgb(102,102,102);
+}
+
+#skills--text p {
+	margin: 0.2em 0;
+}
+
+#skills--disclaim {
+	font-size: 0.9em;
+	font-weight: lighter;
+}
