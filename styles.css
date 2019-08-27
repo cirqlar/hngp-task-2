@@ -15,7 +15,7 @@ body {
 }
 
 #container {
-	max-width: 800px;
+	max-width: 750px;
 	padding: 10px;
 	margin: auto;
 }
@@ -33,18 +33,19 @@ body {
 }
 
 #header--main {
-	width: 70%;
+	width: 65%;
 	float: left;
 }
 
 #header--main--title {
 	font-size: 2.5em;
-	margin-top: 0;
-    margin-bottom: .2em;
+	margin: 0;
 }
 
 #header--main--subtitle {
 	font-size: .8em;
+	margin: 0;
+	font-weight: lighter;
 }
 
 #header--links {
@@ -60,7 +61,7 @@ body {
 }
 
 .cvbody--left {
-	width: 70%;
+	width: 65%;
 	float: left;
 }
 
