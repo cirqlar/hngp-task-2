@@ -54,3 +54,17 @@ body {
 	padding-top: 2.9em;
 }
 
+#cvbody--section--headertext {
+	font-size: 1.2em;
+	color: rgb(32,121,199);
+}
+
+.cvbody--left {
+	width: 70%;
+	float: left;
+}
+
+.cvbody--right {
+	width: 30%;
+	float: right;
+}
