@@ -54,7 +54,7 @@ body {
 	padding-top: 2.9em;
 }
 
-#cvbody--section--headertext {
+.cvbody--article--headertext {
 	font-size: 1.2em;
 	color: rgb(32,121,199);
 }
@@ -67,4 +67,32 @@ body {
 .cvbody--right {
 	width: 30%;
 	float: right;
+}
+
+.experience--title {
+	font-weight: normal;
+	font-size: 1em;
+	margin: 1em 0 0 0;
+}
+
+.title--bold {
+	font-weight: bold;
+}
+
+.title--italic {
+	font-style: italic;
+}
+
+.experience--subtitle {
+	font-size: 0.8em;
+	font-weight: lighter;
+	text-transform: capitalize;
+	color: rgb(102, 102, 102);
+	margin: 0;
+}
+
+.experience--body {
+	font-size: 0.8em;
+	color: rgb(102, 102, 102);
+	margin: .5em 0;
 }
