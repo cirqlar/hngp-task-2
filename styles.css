@@ -1,0 +1,118 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.clearfix {
+	clear: both;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+}
+
+#container {
+	max-width: 750px;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+#header {
+	width: 100%;
+	position: relative;
+}
+
+#header--image {
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	margin: auto;
+}
+
+#header--main {
+	width: 65%;
+	float: left;
+}
+
+#header--main--title {
+	font-size: 2.5em;
+	margin: 0;
+}
+
+#header--main--subtitle {
+	font-size: .8em;
+	margin: 0;
+	font-weight: lighter;
+}
+
+#header--links {
+	width: 30%;
+	float: right;
+	font-size: .8em;
+	padding-top: 2.9em;
+	word-wrap: break-word;
+}
+
+#header--links p {
+	margin: 0.5em;
+}
+
+.cvbody--article--headertext {
+	font-size: 1.2em;
+	color: rgb(32,121,199);
+}
+
+.cvbody--left {
+	width: 65%;
+	float: left;
+}
+
+.cvbody--right {
+	width: 30%;
+	float: right;
+}
+
+.experience--title, .education--title {
+	font-weight: normal;
+	font-size: 1em;
+	margin: 1em 0 0 0;
+}
+
+.title--bold {
+	font-weight: bold;
+}
+
+.title--italic {
+	font-style: italic;
+}
+
+.experience--subtitle, .education--subtitle {
+	font-size: 0.8em;
+	font-weight: lighter;
+	text-transform: capitalize;
+	color: rgb(102, 102, 102);
+	margin: 0;
+}
+
+.experience--body, .education--body {
+	font-size: 0.8em;
+	color: rgb(102, 102, 102);
+	margin: .5em 0;
+}
+
+#skills--text, #languages--text {
+	font-size: 0.8em;
+	color: rgb(102,102,102);
+}
+
+#skills--text p {
+	margin: 0.2em 0;
+}
+
+#skills--disclaim {
+	font-size: 0.9em;
+	font-weight: lighter;
+}

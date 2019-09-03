@@ -16,3 +16,7 @@ My CV: [ayanfeoluwa.html](ayanfeoluwa.html)
 My blog post: [https://cirqlar.blogspot.com/2019/08/a-thank-you-to-flutterwave.html](https://cirqlar.blogspot.com/2019/08/a-thank-you-to-flutterwave.html)
 
 And my lucid blog post: [https://lucid.blog/ibitoyeayanfeoluwa/post/1566481930](https://lucid.blog/ibitoyeayanfeoluwa/post/1566481930)
+
+## Update
+
+For the third task (the individual one) here's my lucid blog: [Spicing things up with CSS](https://lucid.blog/ibitoyeayanfeoluwa/post/spicing-things-up-with-css-775)
