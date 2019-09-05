@@ -12,6 +12,7 @@
 	form.addEventListener('submit', function validate(e) {
 		e.preventDefault();
 		form.classList.remove("open");
+		formtag.reset();
 	});
 	
 	contact.addEventListener('click', function openform(e) {
