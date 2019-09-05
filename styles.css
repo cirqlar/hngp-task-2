@@ -146,6 +146,11 @@ body {
 	text-align: center;
 }
 
+#form form h2 {
+	display: none;
+	text-align: center;
+}
+
 #form form input, #form form textarea {
 	width: 100%;
 	margin: 4px 0;
@@ -169,4 +174,12 @@ body {
 #contact:hover, #contact:focus {
 	background-color: rgb(32,121,199);
 	color: white;
+}
+
+#form form.filled div {
+	display: none;
+}
+
+#form form.filled h2 {
+	display: block;
 }

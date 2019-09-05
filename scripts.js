@@ -11,11 +11,15 @@
 	
 	form.addEventListener('submit', function validate(e) {
 		e.preventDefault();
-		form.classList.remove("open");
-		formtag.reset();
+		formtag.classList.add("filled");
+		setTimeout(function closeform() {
+			form.classList.remove("open");
+			formtag.reset();
+		}, 500);
 	});
 	
 	contact.addEventListener('click', function openform(e) {
+		formtag.classList.remove("filled");
 		form.classList.add("open");
 	});
 
