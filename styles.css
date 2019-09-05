@@ -146,7 +146,7 @@ body {
 	text-align: center;
 }
 
-#form form h2 {
+#form form > h2 {
 	display: none;
 	text-align: center;
 }
@@ -180,6 +180,6 @@ body {
 	display: none;
 }
 
-#form form.filled h2 {
+#form form.filled > h2 {
 	display: block;
 }
